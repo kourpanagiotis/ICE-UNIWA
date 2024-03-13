@@ -1,2 +1,2 @@
 # ICE-UNIWA
-Assignments for my degree at the Informatics and Comouter Engineering Department, University of West Attica.
+Assignments for my degree at the Informatics and Computer Engineering Department, University of West Attica.
